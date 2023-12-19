@@ -21,3 +21,4 @@ Refer to https://moonrepo.dev/docs/proto/tools#third-party for more information.
 
 ## Available plugins in this repo
 temporal - Temporal (https://github.com/temporalio/cli)
+pulumi - Pulumi (https://github.com/pulumi/pulumi)
